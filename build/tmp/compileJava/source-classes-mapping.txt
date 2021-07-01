@@ -1,0 +1,10 @@
+code/soft/interfaces/Carro.java
+ code.soft.interfaces.Carro
+code/soft/interfaces/Opala.java
+ code.soft.interfaces.Opala
+code/soft/interfaces/Veiculo.java
+ code.soft.interfaces.Veiculo
+code/soft/interfaces/Programa.java
+ code.soft.interfaces.Programa
+code/soft/interfaces/TiposDeDados.java
+ code.soft.interfaces.TiposDeDados

@@ -1,10 +1,10 @@
 package code.soft.interfaces;
 
-public interface Carro implements Veiculo
+public interface Carro
 {
     String marca();
     String placa();
-    Double valor();
+    int valor();
 
     default void ligar()
     {
